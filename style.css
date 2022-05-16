@@ -1,6 +1,6 @@
 .videoPlayer {
   /* position: absolute; или fixed */
-  width: 25%;
+  width: 100%;
   height: 25%;
   top: 0;
   left: 0;
